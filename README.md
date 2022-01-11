@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M4rti21
-- 👀 I’m interested in programming!
-- 🌱 I’m currently learning JavaScript
+- I use arch btw
+- I’m currently learning JavaScript
 - 📫 Reach me in discord: M4rti_#3410
 
 <!---
