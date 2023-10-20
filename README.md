@@ -3,4 +3,4 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,js,cs,java,php,androidstudio,arduino,nodejs)]()\
 [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,tailwind,bootstrap,materialui)]()\
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)]()\
-[![My Skills](https://skillicons.dev/icons?i=unity,ps,pr)]()\
+[![My Skills](https://skillicons.dev/icons?i=unity,ps,pr)]()
