@@ -5,7 +5,6 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)]()
 [![My Skills](https://skillicons.dev/icons?i=unity,ps,pr)]()
 
-Find me on:
 [![My Skills](https://skillicons.dev/icons?i=discord)]()
 [![My Skills](https://skillicons.dev/icons?i=twitter)]()
 [![My Skills](https://skillicons.dev/icons?i=linkedin)]()
