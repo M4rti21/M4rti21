@@ -33,12 +33,12 @@ software.
 
 #### My current development envoirment is:
 
-- 💾 OS: [Arch Linux](https://archlinux.org) - [*\[source\]*](https://github.com/archlinux)
+- 💾 OS: [Arch Linux](https://archlinux.org) (btw) - [*\[source\]*](https://github.com/archlinux)
     - WM: [Hyprland](https://hyprland.org) - [*\[source\]*](https://github.com/hyprwm/Hyprland)
     - Panel: [Waybar](https://github.com/Alexays/Waybar) - [*\[source\]*](https://github.com/Alexays/Waybar)
 - 🗔  Terminal: [Foot](https://codeberg.org/dnkl/foot) - [*\[source\]*](https://codeberg.org/dnkl/foot)
     - Multiplexer: [Tmux](https://github.com/tmux/tmux/wiki) - [*\[source\]*](https://github.com/tmux/tmux)
-- 📝 Text Editor: [NeoVim](https://neovim.io) - [*\[source\]*](https://github.com/neovim/neovim)
+- 📝 Text Editor: [NeoVim](https://neovim.io) (btw) - [*\[source\]*](https://github.com/neovim/neovim)
 - 🧰 Git: [LazyGit](https://github.com/jesseduffield/lazygit/wiki) - [*\[source\]*](https://github.com/jesseduffield/lazygit)
 - 🌐 Web Browser: [Zen Browser](https://zen-browser/desktop) - [*\[source\]*](https://github.com/zen-browser/desktop)
 
