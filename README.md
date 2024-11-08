@@ -14,13 +14,13 @@ software.
 
 #### Languages:
 
-- Catalan *(native)*
-- Spanish *(native)*
-- English
+| Good at          | Have Studied | Want to learn |
+|------------------|--------------|---------------|
+| Catalan (native) | French       | *(too lazy rn)* |
+| Spanish (native) | German       | |
+| English          |              | |
 
 #### Programming Languages:
-
-*(higher = better)*
 
 | Good at    | Have used | Want to learn |
 |------------|-----------|---------------|
