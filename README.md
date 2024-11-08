@@ -12,7 +12,7 @@ Over the past few years, I’ve been paying more
 attention to my online privacy and making an effort to use free and open-source 
 software.
 
-#### Languages:
+#### Spoken Languages:
 
 | Good at          | Have Studied | Want to learn |
 |------------------|--------------|---------------|
