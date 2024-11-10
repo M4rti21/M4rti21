@@ -4,7 +4,7 @@
 
 I am currently working as a Programmer at [Strategic Platform](https://strategicplatform.com/en/) 
 and studying Informatics Engineering (Computer Science) at the 
-[Universitat Overta de Catalunya](https://uoc.edu).
+[Universitat Oberta de Catalunya](https://uoc.edu).
 
 **❤️  I love programming!**
 
