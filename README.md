@@ -4,7 +4,7 @@
 
 I am currently working as a Programmer at [Strategic Platform](https://strategicplatform.com/en/) 
 and studying Informatics Engineering (Computer Science) at the 
-[Universitat Overta de Catalunya](https://uoc.edu).
+[Universitat Oberta de Catalunya](https://uoc.edu).
 
 **❤️  I love programming!**
 
@@ -12,7 +12,7 @@ Over the past few years, I’ve been paying more
 attention to my online privacy and making an effort to use free and open-source 
 software.
 
-#### Languages:
+#### Spoken Languages:
 
 | Good at          | Have Studied | Want to learn |
 |------------------|--------------|---------------|
