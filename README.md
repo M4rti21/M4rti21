@@ -37,7 +37,7 @@ software.
     - WM: [Hyprland](https://hyprland.org) - [*\[source\]*](https://github.com/hyprwm/Hyprland)
     - Panel: [Waybar](https://github.com/Alexays/Waybar) - [*\[source\]*](https://github.com/Alexays/Waybar)
 - 🗔  Terminal: [Foot](https://codeberg.org/dnkl/foot) - [*\[source\]*](https://codeberg.org/dnkl/foot)
-    - Shell: [Zsh](https://www.zsh.org/) - [*\[source\]*](https://zsh.sourceforge.io/Arc/source.html)
+    - Shell: [Zsh](https://www.zsh.org/) - [*\[source\]*](https://zsh.sourceforge.io/)
     - Multiplexer: [Tmux](https://github.com/tmux/tmux/wiki) - [*\[source\]*](https://github.com/tmux/tmux)
 - 📝 Text Editor: [NeoVim](https://neovim.io) (btw) - [*\[source\]*](https://github.com/neovim/neovim)
 - 🧰 Git: [LazyGit](https://github.com/jesseduffield/lazygit/wiki) - [*\[source\]*](https://github.com/jesseduffield/lazygit)
