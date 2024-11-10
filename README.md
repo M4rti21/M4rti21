@@ -2,15 +2,11 @@
 
 *I'm from Catalonia, Spain born in 2004*
 
-I am currently working as a Programmer at [Strategic Platform](https://strategicplatform.com/en/) 
-and studying Informatics Engineering (Computer Science) at the 
-[Universitat Oberta de Catalunya](https://uoc.edu).
+**`❤️  I love programming! ❤️`**
 
-**❤️  I love programming!**
-
-Over the past few years, I’ve been paying more 
-attention to my online privacy and making an effort to use free and open-source 
-software.
+> I am currently working as a Programmer at [Strategic Platform](https://strategicplatform.com/en/) 
+> and studying Informatics Engineering (Computer Science) at the 
+> [Universitat Oberta de Catalunya](https://uoc.edu).
 
 #### Spoken Languages:
 
@@ -22,14 +18,14 @@ software.
 
 #### Programming Languages:
 
-| Good at    | Have used | Want to learn |
-|------------|-----------|---------------|
-| TypeScript | C#        | C             |
-| JavaScript | Go        | Rust          |
-| Java       | Lua       | Ocaml         |
-|            | Python    |               |
-|            | PHP       |               |
-|            | Bash      |               |
+| Most Experienced | Have used | Want to learn       |
+|------------------|-----------|---------------------|
+| TypeScript       | C#        | C                   |
+| JavaScript       | Go        | Rust                |
+| Java             | Lua       | Ocaml               |
+|                  | Python    | Haskell             |
+|                  | PHP       | Lisp (or lisp-like) |
+|                  | Bash      |                     |
 
 #### My current development envoirment is:
 
