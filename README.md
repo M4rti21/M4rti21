@@ -37,7 +37,7 @@
     - Multiplexer: [Tmux](https://github.com/tmux/tmux/wiki) - [*\[source\]*](https://github.com/tmux/tmux)
 - 📝 Text Editor: [NeoVim](https://neovim.io) (btw) - [*\[source\]*](https://github.com/neovim/neovim)
 - 🧰 Git: [LazyGit](https://github.com/jesseduffield/lazygit/wiki) - [*\[source\]*](https://github.com/jesseduffield/lazygit)
-- 🌐 Web Browser: [Zen Browser](https://zen-browser/desktop) - [*\[source\]*](https://github.com/zen-browser/desktop)
+- 🌐 Web Browser: [Librewolf](https://librewolf.net) - [*\[source\]*](https://codeberg.org/librewolf/source)
 
 *You can check all my configurations in my [dotfiles](https://github.com/m4rti21/dotfiles) repo!*
 
