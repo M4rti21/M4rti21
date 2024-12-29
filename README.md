@@ -29,7 +29,7 @@
 
 #### My current development envoirment is:
 
-- 💾 OS: [Arch Linux](https://archlinux.org) (btw) - [*\[source\]*](https://github.com/archlinux)
+- 💾 OS: [Artix Linux (dinit)](https://artixlinux.org/) (btw) - [*\[source\]*](https://github.com/archlinux)
     - WM: [Hyprland](https://hyprland.org) - [*\[source\]*](https://github.com/hyprwm/Hyprland)
     - Panel: [Waybar](https://github.com/Alexays/Waybar) - [*\[source\]*](https://github.com/Alexays/Waybar)
 - 🗔  Terminal: [Foot](https://codeberg.org/dnkl/foot) - [*\[source\]*](https://codeberg.org/dnkl/foot)
