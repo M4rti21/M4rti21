@@ -1,3 +1,5 @@
+# I have switched over to [codeberg.org](https://codeberg.org/Marti), i'll probably just keep the README up to date, all my repos on github will be archived
+
 ## Hola! I'm [Martí](https://m4rti.dev) 😛
 
 *I'm from Catalonia, Spain born in 2004*
