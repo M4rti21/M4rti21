@@ -1,1 +1,1 @@
-# I have switched over to a self hosted [forgejo instance](https://git.cumsek.com/Marti), I only use github to contribute to other projects hosted here, all my personal repos on github are archived and now reside there instead.
+# I have switched over to a self-hosted [forgejo instance](https://git.cumsek.com/Marti), I only use github to contribute to other projects hosted here, all my personal repos on github are archived and now reside there instead.
